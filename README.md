@@ -89,4 +89,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Reddit API Documentation](https://www.reddit.com/dev/api)
 ```
 
-
