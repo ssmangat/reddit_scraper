@@ -20,13 +20,13 @@ A simple Python script that fetches recent posts from a specified subreddit with
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/ssmangat/reddit_scraper.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd your-repo
+   cd reddit_scraper
    ```
 
 3. Install the required libraries (if not already installed):
@@ -37,12 +37,12 @@ A simple Python script that fetches recent posts from a specified subreddit with
 
 ## Usage
 
-1. Open the script file (`your_script.py`) in a text editor.
-2. Replace `your_subreddit_here` with the desired subreddit name.
+1. Open the script file (`main.py`) in a text editor.
+2. Replace `subreddit` with the desired subreddit name.
 3. Run the script:
 
    ```bash
-   python your_script.py
+   python main.py
    ```
 
 4. The output will be printed in JSON format, showing the recent posts and their comments.
@@ -89,8 +89,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Reddit API Documentation](https://www.reddit.com/dev/api)
 ```
 
-### Instructions for Use:
-- Replace `your-username` and `your-repo` with your actual GitHub username and repository name.
-- Replace `your_script.py` with the actual name of your Python script.
-- You can modify the example output section to reflect actual output from your script if desired.
 
